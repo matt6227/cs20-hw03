@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<music_list>
+<!--first song-->
+<big_title>Music Top Hits</big_title>
+    <song>
+        <title>South Of The Border</title>
+        <artists>
+            <artist>Ed Sheeran</artist>
+            <artist>Camilla Cabello</artist>
+            <artist>Cardi B</artist>
+        </artists>
+        <music_genres>
+            <genre>Latin pop</genre>
+            <genre>Hip Hop</genre>
+            <genre>R and B</genre>
+            <genre>Pop Rap</genre>
+        </music_genres>
+        <year_released>2019</year_released>
+    </song>
+
+<!--second song-->
+    <song>
+        <title>Shape of You</title>
+        <artists>
+            <artist>Ed Sheeran</artist>
+        </artists>
+        <music_genres>
+            <genre>R and B</genre>
+        </music_genres>
+        <year_released>2017</year_released>
+    </song>
+
+<!--third song-->
+    <song>
+        <title>Hips Don't Lie</title>
+        <artists>
+            <artist>Shakira</artist>
+        </artists>
+        <music_genres>
+            <genre>Latin Pop</genre>
+            <genre>Reggaeton</genre>
+        </music_genres>
+        <year_released>2006</year_released>
+    </song>
+
+
+<!--fourth song-->
+    <song>
+        <title>Señorita</title>
+        <artists>
+            <artist>Camila Cabello</artist>
+            <artist>Shawn Mendes</artist>
+        </artists>
+        <music_genres>
+            <genre>Latin Pop</genre>
+            <genre>Pop</genre>
+        </music_genres>
+        <year_released>2019</year_released>
+    </song>
+
+
+<!--fifth song-->
+    <song>
+        <title>What a Wonderful World</title>
+        <artists>
+            <artist>Louis Armstrong</artist>
+        </artists>
+        <music_genres>
+            <genre>R and B</genre>
+        </music_genres>
+        <year_released>1967</year_released>
+    </song>
+
+ <!--sixth song-->
+    <song>
+        <title>Fly Me to the Moon</title>
+        <artists>
+            <artist>Frank Sinatra</artist>
+        </artists>
+        <music_genres>
+            <genre>Jazz</genre>
+        </music_genres>
+        <year_released>1954</year_released>
+    </song>
+
+<!--seventh song-->
+    <song>
+        <title>Dancing Queen</title>
+        <artists>
+            <artist>ABBA</artist>
+        </artists>
+        <music_genres>
+            <genre>Disco</genre>
+        </music_genres>
+        <year_released>1976</year_released>
+    </song>
+
+<!--eight song-->
+    <song>
+        <title>Count on Me</title>
+        <artists>
+            <artist>Bruno Mars</artist>
+        </artists>
+        <music_genres>
+            <genre>Folk</genre>
+            <genre>Tropical</genre>
+        </music_genres>
+        <year_released>1976</year_released>
+    </song>
+
+<!--ninth song-->
+    <song>
+        <title>Bailando – Spanish Version</title>
+        <artists>
+            <artist>Enrique Iglesias</artist>
+        </artists>
+        <music_genres>
+            <genre>Pop</genre>
+            <genre>R and B</genre>
+            <genre>Tropipop</genre>
+            <genre>Bachata</genre>
+        </music_genres>
+        <year_released>2014</year_released>
+    </song>
+
+<!--tenth song-->
+    <song>
+        <title>Last Friday Night (T.G.I.F.) Song by Katy Perry</title>
+        <artists>
+            <artist>Katy Perry</artist>
+        </artists>
+        <music_genres>
+            <genre>Electornic</genre>
+            <genre>Pop</genre>
+        </music_genres>
+        <year_released>2010</year_released>
+    </song>
+
+</music_list>
