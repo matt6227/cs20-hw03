@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+music_list {
+    background-color: #e2e2e2;
+    border:5px solid #000000;
+    min-height: 600px;
+    font-family: Verdana;
+    margin:0.5em;
+}
+
+big_title{
+    display:block;
+    font-weight:bolder;
+    text-align:center;
+    font-size:30px;
+    background-color: green;
+    color: white;
+}
+song {
+    display:block;
+    margin-bottom: 30px; /*add space between songs*/
+    border: 1px solid silver; 
+    margin:0.5em; /*spaces between the box */
+    padding:0.5em; /*how big inside the box*/
+    background-color:whitesmoke;
+}
+artists, artist, title, year_released {   /*put everything into center*/
+    display:block;
+    text-align:center;
+}
+
+artists {
+    margin-top: 25px;
+    font-family:"Copperplate";
+}
+
+title {
+    text-align: center;
+    font-size: 40px;
+}
+
+year_released {
+    /* display:block;*/
+    text-align: right;
+
+}
